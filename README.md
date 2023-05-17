@@ -26,7 +26,11 @@ User Interface (UI) aids include:
 	any of the RG<n>, XB<n> UIs, by selecting the n subscript value.  This UI also computes an inductive or
 	capacitive value of the Unnormalized quantity given the frequency entered in the 'Medium Parameters' UI
   - 'Stub Length' UI that computes the length of a shorted-end or opened-end stub in units of wavelength.
-  - 'Calculator' UI that computes complex addition of two terms or recprocal of a single term.
+  - 'Calculator' UI that computes:
+     1. addition of two complex numbers
+	 2. recprocal of a complex number
+	 3. capacitive reactance and its resonant inductance given capacitance and frequency
+	 4. inductive reactance and its resonant capacitance given inductance and frequency
   
 At anytime, the Smith Chart may be reset by clicking on the 'Reset' button that clears all chart plots.
 Values in the panel areas and their associated variables are not cleared.
