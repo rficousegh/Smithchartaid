@@ -31,6 +31,8 @@ User Interface (UI) aids include:
 	 2. recprocal of a complex number
 	 3. capacitive reactance and its resonant inductance given capacitance and frequency
 	 4. inductive reactance and its resonant capacitance given inductance and frequency
+	 5. converting fractional-wavelength to length
+	 6. converting length to fractional-wavelength
   
 At anytime, the Smith Chart may be reset by clicking on the 'Reset' button that clears all chart plots.
 Values in the panel areas and their associated variables are not cleared.
