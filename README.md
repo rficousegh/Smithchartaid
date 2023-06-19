@@ -1,6 +1,7 @@
 # Smithchartaid
 Smithchartaid is a utility that aids a design requiring a Smith Chart. It works on the Windows OS.
-It was developed as a Windows Application in Visual Studio 2022 using the Target framework .NET framework 4.7.2.
+It was developed as a Windows Application in Visual Studio 2022 Ver 17.6.3 using the Target framework
+.NET framework 4.8.04084.
 
 The Smith Chart Aid UI overlays user specified impedance admittance points and other useful graphics on a Smith Chart.
 The underlying Smith Chart images (with black lines or colored lines) were generated in a separate program, saved, and
@@ -33,6 +34,9 @@ User Interface (UI) aids include:
 	 4. inductive reactance and its resonant capacitance given inductance and frequency
 	 5. converting fractional-wavelength to length
 	 6. converting length to fractional-wavelength
+	 7. converting fractional-wavelength to angle
+	 8. converting angle to fractional-wavelength
+	 9. Impedance given VSWR and an angle
   
 At anytime, the Smith Chart may be reset by clicking on the 'Reset' button that clears all chart plots.
 Values in the panel areas and their associated variables are not cleared.
