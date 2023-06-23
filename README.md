@@ -36,7 +36,7 @@ User Interface (UI) aids include:
 	 6. converting length to fractional-wavelength
 	 7. converting fractional-wavelength to angle
 	 8. converting angle to fractional-wavelength
-	 9. Impedance given VSWR and an angle
+	 9. normalized impedance given VSWR and an angle
   
 At anytime, the Smith Chart may be reset by clicking on the 'Reset' button that clears all chart plots.
 Values in the panel areas and their associated variables are not cleared.
