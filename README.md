@@ -3,7 +3,7 @@ Smithchartaid is a utility that aids a design requiring a Smith Chart. It works 
 It was developed as a Windows Application in Visual Studio 2022 Ver 17.6.3 using the Target framework
 .NET framework 4.8.04084.
 
-The Smith Chart Aid UI overlays user specified impedance admittance points and other useful graphics on a Smith Chart.
+The Smith Chart Aid UI overlays user specified impedance or admittance points and other useful graphics on a Smith Chart.
 The underlying Smith Chart images (with black lines or colored lines) were generated in a separate program, saved, and
 then included as a Resource within the application.
 
